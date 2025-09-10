@@ -32,16 +32,6 @@ course/
 └── study_status.dart # Enum for student study status
 
 
----
-
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/namnv.dev/s04-oop-school-management.git
-cd dart_oop_school_managements04-oop-school-management/course
-dart main.dart
-
-
 🖼 UML Class Diagram
 
 - Person is an abstract class.
@@ -62,3 +52,12 @@ dart main.dart
 - Connect UML diagrams (analysis/design) with Dart implementation.
 
 - Practice extending the project with new requirements (e.g., add Staff, multiple Courses, GPA).
+
+---
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/namnvdev/flutter-dart-oop.git
+cd flutter-dart-oop/s04-course
+dart main.dart
